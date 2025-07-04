@@ -1,0 +1,29 @@
+Google Drive Link for Code and Models Folder: https://drive.google.com/drive/folders/1bGzs2gSvPCdQVWu9ydo2DwY_Hv5g5jgw?usp=sharing
+
+Download the entire folder 23B1026_23B0992_Submission
+
+Folder Structure : 23B1026_23B0992_Submission--Bertimbau_models
+                                             --Bertimbau_training_files
+                                             --Improved_models
+                                             --improvement_trails_code
+                                             --Demo.py
+                                             --Models_testing.ipynb
+
+
+Bertimbau_models : Contains four models, two(one is base model and other is large model) for binary classification of hate and non hate,
+                   and other two for Hierarchical classification of hate.
+
+Bertimbau_training_files : Contains training code for above Bertimbau_models
+
+improvement_trails_code : Four files -- one using BERT and lstms
+                                     -- one using
+                                     -- one using roBERTa model
+                                     -- one using BERT and CNN Layers
+
+Improved_models : Three models -- one using roBERTa model
+                               -- one using BERT_base and CNN layers
+                               -- one using BERT_large and CNN layers
+
+Demo.py : Code for Streamlit Demo
+
+Models_testing.ipynb : Code for testing the performance of all models (Has Metrics for all models above)
