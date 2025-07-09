@@ -20,4 +20,5 @@ We got the accuracy same as in the paper{Enter the values}.
   * Unfreezing technique is that we unfreeze the parameters of each layer of Bertimbau which means there parameters will also be trained but gradually with each epoch.
   * Attention Masking : **Yugesh should tell me about this**.
   * Instead of BERT tried using **Roberta** which is model i think trainged on 3 languages**AS FAR AS REMEMBER**.
-**ALL OF OUR CODE WAS WRITTEN BY GPT DONT ASK ANY QUESTIONS BASED ON THAT**.
+  
+  **ALL OF OUR CODE WAS WRITTEN BY GPT DONT ASK ANY QUESTIONS BASED ON THAT**.
