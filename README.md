@@ -17,7 +17,7 @@ We got the accuracy same as in the paper{Enter the values}.
 * In the first attempt we tried using an LSTM layer top on pretrained Bert which decrease the accuracy to (85%).
 * Then we tried using CNN's over BERT which gave very good result and increased the accuracy to (95%).
 * Trying to improve the model ,explored various techniques by using gradualunfreezing technique,Attentions Masking.
-** Unfreezing technique is that we unfreeze the parameters of each layer of Bertimbau which means there parameters will also be trained but gradually with each epoch.
-** Attention Masking : **Yugesh should tell me about this**.
-** Instead of BERT tried using **Roberta** which is model i think trainged on 3 languages**AS FAR AS REMEMBER**.
+  * Unfreezing technique is that we unfreeze the parameters of each layer of Bertimbau which means there parameters will also be trained but gradually with each epoch.
+  * Attention Masking : **Yugesh should tell me about this**.
+  * Instead of BERT tried using **Roberta** which is model i think trainged on 3 languages**AS FAR AS REMEMBER**.
 **ALL OF OUR CODE WAS WRITTEN BY GPT DONT ASK ANY QUESTIONS BASED ON THAT**.
